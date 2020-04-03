@@ -1,7 +1,8 @@
 # CRISPR_GUIDE_PRIMERS
-# This program can have a long run time, recommend turning computer sleep OFF and leaving it alone 
-  to avoid accidently clicking and disrupting the run 
-# This program relies on the use of selenium webdriver 
+
+This program can have a long run time, recommend turning computer sleep OFF and leaving it alone 
+to avoid accidently clicking and disrupting the run 
+This program relies on the use of selenium webdriver 
 
 Takes a csv with guide sequences, 
 
