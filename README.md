@@ -23,3 +23,8 @@ with specific parameters:
 and extracts the first primer pair from results (ie):
 https://www.ncbi.nlm.nih.gov/tools/primer-blast/primertool.cgi?ctg_time=1585801635&job_key=f3Wgd83kwEzndlBzXRN0QScIZXMKG35uCw
 
+
+Downloads:
+selenium instructions: https://selenium-python.readthedocs.io/installation.html
+chromedriver: https://chromedriver.chromium.org/downloads
+
