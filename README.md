@@ -1,8 +1,9 @@
 # CRISPR_GUIDE_PRIMERS
 
 This program can have a long run time, recommend turning computer sleep OFF and leaving it alone 
-to avoid accidently clicking and disrupting the run 
-This program relies on the use of selenium webdriver 
+to avoid accidently clicking and disrupting the run; because of this, internet speed may affect process.
+The SHAM row and duplicate of the first row ensure all inputs get an output despite slower interenet.
+This program relies on the use of selenium webdriver.
 
 Takes a csv with guide sequences, 
 
