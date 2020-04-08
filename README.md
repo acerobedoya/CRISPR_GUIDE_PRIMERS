@@ -5,6 +5,8 @@ to avoid accidently clicking and disrupting the run; because of this, internet s
 The SHAM row and duplicate of the first row ensure all inputs get an output despite slower interenet.
 This program relies on the use of selenium webdriver.
 
+Purpose: this tool creates primers targeting genomic areas around CRISPR guides (200bp around cutsite) allowing for amplification of segments that can be used for subsequent sequencing to indentify of specific indels resulting from CRISPR screens.
+
 Takes a csv with guide sequences, 
 
 runs through UCSC genome browser: 
