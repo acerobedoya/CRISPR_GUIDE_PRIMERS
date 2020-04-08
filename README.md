@@ -11,6 +11,8 @@ runs through UCSC genome browser:
 https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr7%3A127685612%2D127687611&hgsid=818198291_7kjxM2ogVXHZPH94SJesF50914dy
 
 to obtain 2000bp genomic location around guide (ie "chr7:5,528,404-5,530,403")
+-some guides do not return a match and are designed a value of "NA," other guides return multiple matches usually depicted with a "K" strng included
+-NA and K containing Genomic Locations are removed and stored into a "guides_fail" list and output into a text file to be done by hand
 
 and runs it through primer BLAST:
 https://www.ncbi.nlm.nih.gov/genome/gdv/browser/genome/?id=GCF_000001405.39  #Tools dropdown for Primer BLAST option
